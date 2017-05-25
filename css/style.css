@@ -62,7 +62,7 @@ li a {
 	background-size: cover;
 }
 .circle {
-	background: url("../images/user.jpg") center center no-repeat;
+	background: url("../images/harshb.jpg") center center no-repeat;
 	background-size: cover;
 	position: absolute;
 	top: 40%;
@@ -140,6 +140,7 @@ hr {
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 22px;
+
 }
 .portfolio h3{
 	font-size: 30px;
@@ -203,22 +204,24 @@ hr {
 	padding:15px 15px; 
 }
 #contact{
+	padding-bottom: 10px;
 	padding: 70px;
 	background-color: #ffa200;
-	height: 500px;
+	height: 550px;
 	font-size: 20px;
 	font-weight: 100;
 	font-family: Raleway,sans-serif;
 	color: #fff
 }
 .address {
-	width: 250px;
-	height: 250px;
+	width: 288px;
+	height: 288px;
 	float: left;
 	padding: 10px;
-	margin: 13px 10px 0px 165px;
+	margin: 13px 10px 0px 115px;
 	background: url("../images/reveal-circle.png") center center no-repeat;
 	background-size: cover;
+
 }
 .address h4 {
 	margin-top: 10px;
