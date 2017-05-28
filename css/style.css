@@ -62,7 +62,7 @@ li a {
 	background-size: cover;
 }
 .circle {
-	background: url("../images/harshb.jpg") center center no-repeat;
+	background: url("../images/harsh-bhatt.jpg") center center no-repeat;
 	background-size: cover;
 	position: absolute;
 	top: 40%;
@@ -87,7 +87,7 @@ li a {
 	left: 40%;
 	text-align: center;
 }
-.skills {
+.skills{
 	font-size: 1.75em;
 	font-weight: 300;
 	color: #fff;
